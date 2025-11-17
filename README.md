@@ -6,14 +6,12 @@ Welcome to my GitHub profile! Here, I share the programming languages and skills
 
 ## 🛠 Languages I Learned
 
-| Language | Icon | Skill Level |
-|----------|------|-------------|
-| Python | 🐍 | Advanced |
-| JavaScript | ✨ | Intermediate |
-| HTML & CSS | 💻 | Advanced |
-| C++ | ⚙ | Intermediate |
-| Java | ☕ | Beginner |
 
+
+Python 
+ JavaScript 
+ HTML & CSS 
+ C++
 ---
 
 ## 📈 GitHub Stats
