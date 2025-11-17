@@ -18,7 +18,6 @@ Python
  
 ---
 
----
 
 ## 📫 Contact Me
 - [Email me](mailto:waledwe47@gmail.com)
