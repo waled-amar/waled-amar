@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here, I share the programming languages and skills
 
 #
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Learn</h2>
 
 ###
 
